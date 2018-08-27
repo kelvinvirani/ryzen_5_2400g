@@ -1,4 +1,4 @@
-![Ryzen 5 2400G](https://raw.githubusercontent.com/kelvinvirani/ryzen_5_2400g/blob/master/photos/AMD-Ryzen-Logo.png)
+![Ryzen 5 2400G](https://github.com/kelvinvirani/ryzen_5_2400g/blob/master/photos/AMD-Ryzen-Logo.png)
 # **ryzen_5_2400g**
 all things optimization , links , tricks etc.(personal usage)
 
@@ -49,4 +49,4 @@ Graphics Core Count
 
 
 
-![AMD](https://raw.githubusercontent.com/https://github.com/kelvinvirani/ryzen_5_2400g/blob/master/photos/1213px-AMD_Radeon_logo.svg.png)
+![AMD](https://github.com/kelvinvirani/ryzen_5_2400g/blob/master/photos/1213px-AMD_Radeon_logo.svg.png)
