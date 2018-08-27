@@ -2,12 +2,12 @@
 # **ryzen_5_2400g**
 all things optimization , links , tricks etc.(personal usage)
 
-##SPECIFICATION
-# of CPU Cores
+# SPECIFICATION
+number of CPU Cores
 4
-# of Threads
+number of Threads
 8
-# of GPU Cores
+number of GPU Cores
 11
 Base Clock
 3.6GHz
